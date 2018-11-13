@@ -12,4 +12,4 @@ The `.travis.yml` file has been modified to upload the generated data to Black D
 after_success:
   - bash <(curl -s https://copilot.blackducksoftware.com/ci/travis/scripts/upload)
 ```
-  - bash <(curl -s https://copilot.blackducksoftware.com/ci/travis/scripts/upload)
+
